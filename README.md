@@ -7,7 +7,7 @@
 * Java 1.7+ installed.
 * To run the program use the findpd.jar file in the src folder, or compile the source code.
 * See also the Javadoc in the src folder.
-* The provided run.sh calls "java -jar dist/findpd.jar input/itcont.txt"
+* The provided run.sh calls "java -jar src/findpd.jar input/itcont.txt"
 * To use findpd.jar directly:
 	* java -jar findpd.jar input_file_path. This will save the output file in the ../output/ folder relative to the input file.
 	* java -jar findpd.jar input_file_path output_path. This will save the two output files in the designated output_folder.
