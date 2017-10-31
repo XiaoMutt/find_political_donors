@@ -1,0 +1,2 @@
+Processing: input/itcont.txt
+Done. Files saved in F:\Dropbox\Insight Application\find_political_donors\output

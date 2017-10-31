@@ -1,0 +1,2 @@
+Processing: insight_testsuite\tests\test_8\input\itcont.txt
+Done. Files saved in insight_testsuite\tests\test_8\output
